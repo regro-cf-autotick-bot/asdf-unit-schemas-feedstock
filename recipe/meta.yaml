@@ -22,8 +22,6 @@ requirements:
     - setuptools-scm
   run:
     - python >=3.8
-    - importlib-resources >=3
-    - asdf-standard >=1.0.1
 
 test:
   imports:
